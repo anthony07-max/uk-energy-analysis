@@ -1,0 +1,238 @@
+{
+  "cap_total_inc_vat": {
+    "2017-04-01": 832,
+    "2017-10-01": 827,
+    "2018-04-01": 885,
+    "2018-10-01": 945,
+    "2019-04-01": 1039,
+    "2019-10-01": 979,
+    "2020-04-01": 967,
+    "2020-10-01": 899,
+    "2021-04-01": 979,
+    "2021-10-01": 1093,
+    "2022-04-01": 1673,
+    "2022-10-01": 2972,
+    "2023-01-01": 3582,
+    "2023-04-01": 2762,
+    "2023-07-01": 1766,
+    "2023-10-01": 1641,
+    "2024-01-01": 1723,
+    "2024-04-01": 1520,
+    "2024-07-01": 1414,
+    "2024-10-01": 1543,
+    "2025-01-01": 1561,
+    "2025-04-01": 1655,
+    "2025-07-01": 1541,
+    "2025-10-01": 1576,
+    "2026-01-01": 1584,
+    "2026-04-01": 1477,
+    "2026-07-01": 1663,
+    "2026-10-01": 1723
+  },
+  "cap_peak": {
+    "period": "2023-01-01",
+    "gbp": 3582
+  },
+  "cap_latest": {
+    "period": "2026-10-01",
+    "gbp": 1723
+  },
+  "cap_first": {
+    "period": "2017-04-01",
+    "gbp": 832
+  },
+  "wholesale_share": {
+    "2017-04-01": 38.3,
+    "2017-10-01": 37.5,
+    "2018-04-01": 38.3,
+    "2018-10-01": 39.8,
+    "2019-04-01": 42.4,
+    "2019-10-01": 38.7,
+    "2020-04-01": 36.4,
+    "2020-10-01": 31.0,
+    "2021-04-01": 35.0,
+    "2021-10-01": 42.6,
+    "2022-04-01": 55.2,
+    "2022-10-01": 71.4,
+    "2023-01-01": 75.6,
+    "2023-04-01": 67.5,
+    "2023-07-01": 50.6,
+    "2023-10-01": 49.1,
+    "2024-01-01": 51.4,
+    "2024-04-01": 42.0,
+    "2024-07-01": 38.4,
+    "2024-10-01": 42.4,
+    "2025-01-01": 43.0,
+    "2025-04-01": 44.9,
+    "2025-07-01": 42.0,
+    "2025-10-01": 40.3,
+    "2026-01-01": 38.6,
+    "2026-04-01": 37.9,
+    "2026-07-01": 43.6,
+    "2026-10-01": 46.0
+  },
+  "network_share_latest": 24.8,
+  "policy_share_latest": 5.7,
+  "cpi_vs_2019": {
+    "cpi_all_items": 33.2,
+    "cpi_electricity": 56.3,
+    "cpi_gas": 66.3
+  },
+  "cpi_latest_month": "2026-08-01",
+  "cpi_peak_electricity": {
+    "date": "2023-01-01",
+    "vs_2019_pct": 94.1
+  },
+  "cpi_peak_gas": {
+    "date": "2023-01-01",
+    "vs_2019_pct": 137.3
+  },
+  "mix": {
+    "2010": {
+      "GAS": 46.9,
+      "COAL": 30.7,
+      "NUCLEAR": 17.5,
+      "WIND_TOTAL": 1.4,
+      "SOLAR": 0.0,
+      "IMPORTS": 2.1,
+      "BIOMASS": 0.0,
+      "carbon_intensity": 461.5
+    },
+    "2015": {
+      "GAS": 27.7,
+      "COAL": 24.4,
+      "NUCLEAR": 21.6,
+      "WIND_TOTAL": 10.4,
+      "SOLAR": 2.4,
+      "IMPORTS": 7.6,
+      "BIOMASS": 0.0,
+      "carbon_intensity": 355.9
+    },
+    "2020": {
+      "GAS": 34.5,
+      "COAL": 1.6,
+      "NUCLEAR": 17.2,
+      "WIND_TOTAL": 24.8,
+      "SOLAR": 4.4,
+      "IMPORTS": 8.4,
+      "BIOMASS": 6.5,
+      "carbon_intensity": 168.0
+    },
+    "2025": {
+      "GAS": 26.7,
+      "COAL": 0.0,
+      "NUCLEAR": 11.8,
+      "WIND_TOTAL": 29.7,
+      "SOLAR": 6.5,
+      "IMPORTS": 15.2,
+      "BIOMASS": 6.9,
+      "carbon_intensity": 126.9
+    }
+  },
+  "mix_2026_ytd": {
+    "GAS": 23.7,
+    "COAL": 0.0,
+    "NUCLEAR": 11.6,
+    "WIND_TOTAL": 31.0,
+    "SOLAR": 8.5,
+    "carbon_intensity": 141.1
+  },
+  "wind_vs_carbon_since_2025": {
+    "(0, 10]": {
+      "carbon": 195,
+      "gas_share": 37.5,
+      "halfhours": 2986
+    },
+    "(10, 20]": {
+      "carbon": 173,
+      "gas_share": 32.8,
+      "halfhours": 6841
+    },
+    "(20, 30]": {
+      "carbon": 151,
+      "gas_share": 28.9,
+      "halfhours": 7125
+    },
+    "(30, 40]": {
+      "carbon": 118,
+      "gas_share": 21.4,
+      "halfhours": 5707
+    },
+    "(40, 50]": {
+      "carbon": 89,
+      "gas_share": 15.6,
+      "halfhours": 4550
+    },
+    "(50, 100]": {
+      "carbon": 66,
+      "gas_share": 11.7,
+      "halfhours": 4354
+    }
+  },
+  "corr_wind_carbon": -0.7229117403153625,
+  "cleanest_month_hour": [
+    3,
+    13
+  ],
+  "dirtiest_month_hour": [
+    0,
+    17
+  ],
+  "gb_mean_domestic_kwh": {
+    "2015": 3938,
+    "2019": 3626,
+    "2021": 3554,
+    "2022": 3238,
+    "2023": 3295,
+    "2024": 3323
+  },
+  "london_mean_domestic_kwh": {
+    "2019": 3495,
+    "2024": 3241
+  },
+  "la_lowest_2024": [
+    {
+      "local_authority": "South Tyneside",
+      "mean_domestic_kwh": 2534.0
+    },
+    {
+      "local_authority": "North Tyneside",
+      "mean_domestic_kwh": 2669.0
+    },
+    {
+      "local_authority": "Sunderland",
+      "mean_domestic_kwh": 2672.0
+    },
+    {
+      "local_authority": "Gateshead",
+      "mean_domestic_kwh": 2705.0
+    },
+    {
+      "local_authority": "Blaenau Gwent / Blaenau Gwent",
+      "mean_domestic_kwh": 2714.0
+    }
+  ],
+  "la_highest_2024": [
+    {
+      "local_authority": "Isles of Scilly",
+      "mean_domestic_kwh": 6220.0
+    },
+    {
+      "local_authority": "Cotswold",
+      "mean_domestic_kwh": 4686.0
+    },
+    {
+      "local_authority": "Elmbridge",
+      "mean_domestic_kwh": 4496.0
+    },
+    {
+      "local_authority": "Uttlesford",
+      "mean_domestic_kwh": 4461.0
+    },
+    {
+      "local_authority": "Sevenoaks",
+      "mean_domestic_kwh": 4393.0
+    }
+  ],
+  "newham_2024": 2998.001057273832
+}
